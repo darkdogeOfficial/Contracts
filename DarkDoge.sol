@@ -700,8 +700,8 @@ contract Balls is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = "Dark Doge";
-    string private _symbol = "DDOGE";
+    string private _name = "Shikoku";
+    string private _symbol = "SHIK";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 1;
